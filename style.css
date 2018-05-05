@@ -1,0 +1,94 @@
+body{
+
+
+
+background-repeat: no-repeat;
+
+    background-size:cover;
+background-image:url('back.jpg')
+
+
+
+
+    
+}
+
+.main{
+
+color: white;
+    background-color: blue;
+
+
+}
+
+
+#search{
+
+text-align: right;
+
+    border:solid #FF4847 3px;
+    width: 320px;
+
+    height: 40px;
+
+position: absolute;
+
+top: 50%;
+
+
+left: 35%;
+
+
+}
+
+#searchimg{
+
+width: 100px;
+
+height: 100px;
+
+position: absolute;
+
+top: 30%;
+
+
+left: 45%;
+}
+
+header{
+   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    direction: rtl;
+
+    width: 100%;
+    height: 50px;
+
+    list-style-type: none;
+
+    background-color: #FF4847;
+
+    display: flex;
+
+
+    
+}
+
+.dpart{
+
+color: white;
+
+
+}
+.dd{
+
+
+    color: white;
+
+    font-size: 150%;
+display: unset;
+
+position: unset;
+
+top: 10px;
+}
